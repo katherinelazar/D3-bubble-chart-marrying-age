@@ -1,0 +1,48 @@
+
+.tooltip {
+	position: absolute;
+	color: #444444;
+	opacity: .75;
+	padding: 5px;
+	background-color: #ffffff;
+	border-radius: 15px;
+	text-align: center;
+	font-family: futura;
+	font-size: 20px;
+	width: 300px;
+}
+
+.chart-title {
+
+	font-size: 50px;
+	fill: #c8c8c8;
+	font-family: futura;
+	font-weight: bold;
+}
+
+/*titles on scatterplot*/
+#axis-labels {
+	text-anchor: middle;
+	font-size: 36px;
+	fill: #c8c8c8;
+	font-family: futura;
+	font-weight: bold;
+
+}
+
+/*Country names on bubbles*/
+.bubble-label {
+	font-family: futura;
+	font-size: 8px;
+	opacity: .8;
+	text-align: middle;
+	text-anchor: middle;
+}
+
+/*Each circle in chart*/
+.bubble {
+	stroke: white;
+}
+
+
+
