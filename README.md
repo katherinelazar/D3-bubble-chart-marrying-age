@@ -1,4 +1,11 @@
 
+![alt text](bubblechart.png "Description goes here")
+
+
+![alt text](scatterplot.png "Description goes here")
+
+
+
 
 In order to view this project, you will need to use a webserver such as Webstorm. In my case using Webstorm, I opened the project and selected my index.html file, then clicked 'View', then 'Open in Browser'. I don't believe there will be any difference between browsers, but I once encountered some trouble opening in Chrome, and had to restart Chrome to view my project there. There's no need to compile or configure my project. 
 
